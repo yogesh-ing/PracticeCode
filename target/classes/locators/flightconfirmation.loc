@@ -1,0 +1,14 @@
+flightconfirmation.depart.lbl=xpath=//font[text()='Departing']
+flightconfirmation.return.lbl=xpath=//font[text()='Returning']
+flightconfirmation.passengers.lbl=xpath=//font/b[text()='Passengers']
+flightconfirmation.billedto.lbl=xpath=//font/b[text()='Billed To']
+flightconfirmation.deliveryadd.lbl=xpath=//font/b[contains(text(),'Delivery Address')]
+
+flightconfirmation.departinfo.lbl=xpath=//font[text()='Departing']/ancestor::tr[1]/following-sibling::tr[1]//font
+flightconfirmation.returninfo.lbl=xpath=//font[text()='Returning']/ancestor::tr[1]/following-sibling::tr[1]//font
+flightconfirmation.passengersno.lbl=xpath=//font/b[text()='Passengers']/ancestor::tr[1]/following-sibling::tr[1]//font
+flightconfirmation.billedtoinfo.lbl=xpath=//font/b[text()='Billed To']/ancestor::tr[1]/following-sibling::tr[1]//font[1]
+flightconfirmation.deliveryaddinfo.lbl=xpath=//font/b[contains(text(),'Delivery Address')]/ancestor::tr[1]/following-sibling::tr[1]//font[1]
+flightconfirmation.totalprice.lbl=xpath=//font[contains(text(),'Price')]/ancestor::tr[1]//following-sibling::td[2]//font
+
+flightconfirmation.backtoflights.btn=xpath=//img[@src='/images/forms/backtoflights.gif']

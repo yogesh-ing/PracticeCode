@@ -1,0 +1,13 @@
+selectflight.flightname.lbl=xpath=.//input[@name='outFlight' or @name='inFlight']/../../td[2]//b
+selectflight.comp.rediobtn=xpath=.//input[@name='outFlight' or @name='inFlight']
+selectflight.comp.flightdetails=xpath=//input[@name='outFlight' or @name='inFlight']/../..
+
+selectflight.reserveFlight.btn=name=reserveFlights
+selectflight.depart.lbl=xpath=//b/font[text()='DEPART']
+selectflight.return.lbl=xpath=//b/font[text()='RETURN']
+
+selectflight.departRoute.lbl=xpath=//b/font[text()='DEPART']/ancestor::tr[1]/following-sibling::tr/td[1]
+selectflight.returnRoute.lbl=xpath=//b/font[text()='RETURN']/ancestor::tr[1]/following-sibling::tr/td[1]
+
+selectflight.departDate.lbl=xpath=//b/font[text()='DEPART']/ancestor::tr[1]/following-sibling::tr/td[2]
+selectflight.returnDate.lbl=xpath=//b/font[text()='RETURN']/ancestor::tr[1]/following-sibling::tr/td[2]

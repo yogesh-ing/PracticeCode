@@ -1,0 +1,28 @@
+homepage.leftmenu.link = xpath=//a[text()='%s']
+
+homepage.contact.btn = xpath=//a[text()='CONTACT']
+homepage.home.btn=xpath=//a[text()='Home']
+homepage.flights.btn=xpath=//a[text()='Flights']
+homepage.hotels.btn=xpath=//a[text()='Hotels']
+homepage.carrentals.btn=xpath=//a[text()='Car Rentals']
+homepage.cruises.btn=xpath=//a[text()='Cruises']
+homepage.destinations.btn=xpath=//a[text()='Destinations']
+homepage.vacations.btn=xpath=//a[text()='Vacations']
+homepage.sign.btn=xpath=//a[text()='SIGN-ON']
+homepage.register.btn=xpath=//a[text()='REGISTER']
+homepage.support.btn=xpath=//a[text()='SUPPORT']
+
+homepage.featuredDestination.img =css=img[alt^='Featured Destination:']
+homepage.specials.img = css=img[alt='Specials']
+homepage.findFlight.img = css=img[alt='Find a Flight']
+homepage.destinations.img = css=img[alt='Desinations']
+homepage.vacations.img = css=img[alt='vacations']
+homepage.register.img = css=img[alt='Register']
+homepage.links.img = css=img[alt='Links']
+
+
+
+homepage.username.txt= name=userName
+homepage.password.txt= name=password
+homepage.login.btn= name=login
+

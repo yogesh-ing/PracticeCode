@@ -1,0 +1,2 @@
+contactpage.bkhome.btn= css=img[src$='/home.gif']
+contactpage.message.text= xpath=//font[contains(normalize-space(text()),'Sorry for any inconvienece.')]

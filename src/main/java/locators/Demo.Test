@@ -1,0 +1,18 @@
+DATAPRO=(DATAFILE=xlm, KEY=dfg)
+DESC=verify home page
+TEST=VerifyHomePage 
+OPEN=Homepage
+CLICK=signin
+METHOD=dologin
+VERIFY=LoginBtn
+SENDKEY=dataget
+OPEN=Longin
+CLICK=doLogin
+TEST=VerifyHomePagefff 
+OPEN=Homepageff
+CLICK=signinff
+METHOD=dologinff
+VERIFY=LoginBtnff
+SENDKEY=datagetff
+OPEN=Longinff
+CLICK=doLoginnnnff

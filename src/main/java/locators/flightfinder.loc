@@ -1,0 +1,48 @@
+flightfinder.itinerary.link=xpath=//a[text()='ITINERARY']
+flightfinder.profile.link=xpath=//a[text()='PROFILE']
+flightfinder.sign.link=xpath=//a[contains(text(),'SIGN')]
+flightfinder.flightdetails.lbl=xpath=//font[contains(text(),'Details') and contains(text(),'Flight')]
+flightfinder.preferences.lbl=xpath=//font[text()='Preferences']
+
+flightfinder.roundtrip.rediobtn= css=input[value='roundtrip']
+flightfinder.oneway.rediobtn= css=input[value='oneway']
+
+flightfinder.triptype.rediobtn= css=input[value='%s']
+
+flightfinder.passCount.dropdown= name=passCount
+flightfinder.fromPort.dropdown= name=fromPort
+flightfinder.fromMonth.dropdown= name=fromMonth
+flightfinder.fromDay.dropdown= name=fromDay
+flightfinder.toPort.dropdown= name=toPort
+flightfinder.toMonth.dropdown= name=toMonth
+flightfinder.toDay.dropdown= name=toDay
+flightfinder.ecoClass.rediobtn= css=input[value='Coach']
+flightfinder.busClass.rediobtn= css=input[value='Business']
+flightfinder.firstClass.rediobtn= css=input[value='First']
+
+flightfinder.serClass.rediobtn= css=input[value='%s']
+flightfinder.airline.dropdown= name=airline
+
+flightfinder.itinerary.link= xpath=//a[text()='ITINERARY']
+flightfinder.profile.link= xpath=//a[text()='PROFILE']
+flightfinder.signoff.link= xpath=//a[contains(text(),'SIGN')]
+
+flightfinder.roundtrip.rediobtn= css=input[value='roundtrip']
+flightfinder.oneway.rediobtn= css=input[value='oneway']
+
+flightfinder.tripType.rediobtn= css=input[value='%s']
+flightfinder.passCount.dropdown= name=passCount
+flightfinder.fromPort.dropdown= name=fromPort
+flightfinder.fromMonth.dropdown= name=fromMonth
+flightfinder.fromDay.dropdown= name=fromDay
+flightfinder.toPort.dropdown= name=toPort
+flightfinder.toMonth.dropdown= name=toMonth
+flightfinder.toDay.dropdown= name=toDay
+
+flightfinder.ecoClass.rediobtn= css=input[value='Coach']
+flightfinder.busClass.rediobtn= css=input[value='Business']
+flightfinder.FirstClass.rediobtn= css=input[value='First']
+flightfinder.srvClass.rediobtn= css=input[value='%s']
+flightfinder.airline.dropdown=name=airline
+
+flightfinder.continue.btn= name=findFlights

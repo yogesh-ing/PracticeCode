@@ -1,0 +1,17 @@
+registration.firstname.txt= name=firstName
+registration.lastName.txt= name=lastName
+registration.phone.txt= name=phone
+registration.email.txt= id=userName
+registration.username.txt= id=email
+registration.password.txt= name=password
+registration.confirmPassword.txt= name=confirmPassword
+registration.address1.txt= name=address1
+registration.address2.txt= name=address2
+registration.city.txt= name=city
+registration.state.txt= name=state
+registration.postalCode.txt= name=postalCode
+registration.country.dropdown= name=country
+registration.submit.btn= name=register
+
+registration.usernamelbl.lbl= xpath=//b[contains(text(),'%s')]
+registration.successlbl.lbl= xpath=//font[contains(text(),'Thank you for registering')]
